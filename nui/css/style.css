@@ -1,0 +1,201 @@
+.container{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 145vh;
+    height: 85vh;
+    border: none;
+    border-radius: 2vh;
+    background: radial-gradient(ellipse at top, #171628, transparent),
+    radial-gradient(ellipse at left, #ae0063, transparent), radial-gradient(ellipse at left, #73164a, transparent),radial-gradient(ellipse at right, #9a0083, transparent);
+    box-shadow: rgba(0, 0, 0, 0.3) 0vh 0.3vh 5vh, rgba(0, 0, 0, 0.22) 0vh 0.7vh 1.5vh;
+    transform: translate(-50%, -50%);
+    
+}
+
+.sg_topbar span{
+    color: white;
+    text-shadow: 3px 3px 3px rgba(224, 14, 14, 0.281);
+    text-transform: uppercase;
+    text-align: center;
+    font-family:'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 5vh;
+    margin-left: 32%;
+    position: absolute;
+}
+
+.pizza{
+
+    color:rgb(245, 236, 240);
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    width: 32vh;
+    height: 65vh;
+    font-family:'Poppins', sans-serif;
+    text-align: center;
+    border-radius: 2vh;
+    background: radial-gradient(ellipse at top, #bf0f61, transparent),
+    radial-gradient(ellipse at left, #d90d91, transparent), radial-gradient(ellipse at left, #dd0294, transparent),radial-gradient(ellipse at right, #343133, transparent);
+    transform: translate(-50%, -50%);
+
+}
+
+.camio{
+
+    color:rgb(245, 236, 240);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 32vh;
+    height: 65vh;
+    font-family:'Poppins', sans-serif;
+    text-align: center;
+    border-radius: 2vh;
+    background: radial-gradient(ellipse at top, #bf0f61, transparent),
+    radial-gradient(ellipse at left, #d90d91, transparent), radial-gradient(ellipse at left, #dd0294, transparent),radial-gradient(ellipse at right, #343133, transparent);
+    transform: translate(-50%, -50%);
+
+}
+
+.amazon{
+
+    color:rgb(245, 236, 240);
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    width: 32vh;
+    height: 65vh;
+    font-family:'Poppins', sans-serif;
+    text-align: center;
+    border-radius: 2vh;
+    background: radial-gradient(ellipse at top, #bf0f61, transparent),
+    radial-gradient(ellipse at left, #d90d91, transparent), radial-gradient(ellipse at left, #dd0294, transparent),radial-gradient(ellipse at right, #343133, transparent);
+    transform: translate(-50%, -50%);
+
+}
+
+.pizzaiolo{
+
+     position: absolute;
+     top: 570px;
+     left: 150px;
+     width: 300px;
+     height: 320px;
+}
+
+.pancione{
+
+    position: absolute;
+    top: 590px;
+    left: 630px;
+    width: 300px;
+    height: 300px;
+}
+
+.postino{
+
+    position: absolute;
+    top: 590px;
+    left: 1100px;
+    width: 320px;
+    height: 270px;
+}
+
+.playfatto{
+
+    
+    color:rgb(249, 246, 248);
+    background-color: #d90d91;
+    margin:50px;
+    width: 175px;
+    height: 50px;
+    font-family:'Poppins', sans-serif;
+    border-radius: 10px;
+    border: 1px black solid;
+    box-shadow: 0 6px 20px -5px rgba(0,0,0,0.4);
+    position: absolute;
+    top: 420px;
+    left: 180px;
+}
+
+.playcamio{
+
+    
+    color:rgb(249, 246, 248);
+    background-color: #d90d91;
+    margin:50px;
+    width: 175px;
+    height: 50px;
+    font-family:'Poppins', sans-serif;
+    border-radius: 10px;
+    border: 1px black solid;
+    box-shadow: 0 6px 20px -5px rgba(0,0,0,0.4);
+    position: absolute;
+    top: 420px;
+    left: 650px;
+}
+
+.playpostino{
+
+    
+    color:rgb(249, 246, 248);
+    background-color: #d90d91;
+    margin:50px;
+    width: 175px;
+    height: 50px;
+    font-family:'Poppins', sans-serif;
+    border-radius: 10px;
+    border: 1px black solid;
+    box-shadow: 0 6px 20px -5px rgba(0,0,0,0.4);
+    position: absolute;
+    top: 420px;
+    left: 1125px;
+}
+
+
+.fuse{
+
+    width: 345px;
+    position: absolute;
+    top: 180px;
+    left: 139px;
+}
+
+.negro{
+
+    width: 345px;
+    position: absolute;
+    top: 180px;
+    left: 609px;
+}
+
+.down{
+
+    width: 345px;
+    position: absolute;
+    top: 180px;
+    left: 1079px;
+}
+
+
+.close{
+
+    color:rgb(231, 231, 231);
+    align-items: center;
+    background: radial-gradient(ellipse at top, #171628, transparent),
+    radial-gradient(ellipse at left, #aa186b, transparent), radial-gradient(ellipse at left, #aa186b, transparent),radial-gradient(ellipse at right, #aa186b, transparent);
+    color: white;
+    margin:50px;
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    border: 1px black solid;
+    box-shadow: 0 6px 20px -5px rgba(0,0,0,0.4);
+    position: absolute;
+    top: 805px;
+    left: 645px;
+}

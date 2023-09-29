@@ -1,0 +1,16 @@
+inserisci questo in ox_inventory/data/items
+
+['caricamerce'] = {
+		label = 'Foglio Per Scaricare',
+		weight = 1,
+},
+
+['lettere'] = {
+		label = 'Lettere',
+		weight = 1,
+},
+
+['pizza'] = {
+		label = 'Pizza',
+		weight = 1,
+},
